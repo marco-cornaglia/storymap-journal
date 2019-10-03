@@ -67,6 +67,7 @@
 						'i18n': '../lib-build/i18n',
 					},
 					stubModules: [
+						<div id="index-map_layers" class="esriMapLayers">
 						'text',
 						'lib-build/tpl'
 					],
